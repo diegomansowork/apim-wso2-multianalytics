@@ -19,19 +19,13 @@
 
     <dependencies>
 
-    <!-- APIM 4.5.0 use: 1.2.23 / APIM 4.6.0 use: 1.2.33 / APIM 4.7.0 use: 1.2.36 -->
         <dependency>
             <groupId>org.wso2.am.analytics.publisher</groupId>
             <artifactId>org.wso2.am.analytics.publisher.client</artifactId>
             <version>1.2.37</version>
             <scope>provided</scope>
         </dependency>
-        <!-- <dependency>
-            <groupId>org.wso2.am.analytics.publisher</groupId>
-            <artifactId>org.wso2.am.analytics.publisher.client</artifactId>
-            <version>1.2.33.1</version>
-            <scope>provided</scope>
-        </dependency> -->
+        
         <dependency>
             <groupId>org.apache.logging.log4j</groupId>
             <artifactId>log4j-api</artifactId>
