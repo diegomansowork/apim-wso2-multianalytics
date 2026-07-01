@@ -73,3 +73,7 @@ loggers = reporter, ....
 
 ELK installation guide:
 <https://apim.docs.wso2.com/en/latest/monitoring/api-analytics/on-prem/elk-installation-guide/>
+
+-----------
+
+> To test this customization with Docker Compose, you can use this [repository](https://github.com/diegomansowork/apim-with-elk-moesif-demo) as a guide/example.
